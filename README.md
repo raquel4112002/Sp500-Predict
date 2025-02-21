@@ -49,7 +49,7 @@ Através do modelo Random Forest, foi possível calcular a importância das vari
 
 ![image](https://github.com/user-attachments/assets/019241cb-d808-48be-9e95-d41b57cef732)
 
-A variável Returns_MA3 (Média Móvel de 3 Meses dos Retornos) teve a maior importância, seguida por Returns_Vol3 (Volatilidade de 3 Meses dos Retornos). Essas variáveis estão relacionadas à dinâmica dos retornos diários do S&P 500 e, como esperado, têm um impacto significativo nas previsões do modelo.
+A variável Returns_MA3 (Média Móvel de 3 Meses dos Retornos) teve a maior importância, seguida por Returns_Vol3 (Volatilidade de 3 Meses dos Retornos). Essas variáveis estão relacionadas à dinâmica dos retornos Mensais do S&P 500 e, como esperado, têm um impacto significativo nas previsões do modelo.
 
 5. Conclusão
 
